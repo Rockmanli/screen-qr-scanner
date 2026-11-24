@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+scan_log.txt
+test_qr.png
+*.lnk
+docs/_tmp_*.png
